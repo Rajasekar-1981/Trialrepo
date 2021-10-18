@@ -1,2 +1,5 @@
+[master]
 master.example.com
+
+[control]
 1control.example.com
