@@ -1,5 +1,5 @@
 ---
-- hosts: dev
+- hosts: control
   become: yes
   gather_facts: false
   tasks:
